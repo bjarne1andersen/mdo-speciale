@@ -1,0 +1,600 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-04-14">
+    <creator>NetworkX 2.7.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="viser" label="viser"/>
+      <node id="viden" label="viden"/>
+      <node id="vej" label="vej"/>
+      <node id="0" label="borger"/>
+      <node id="strategi" label="strategi"/>
+      <node id="lang" label="lang"/>
+      <node id="står" label="står"/>
+      <node id="universitetsbiblioteker" label="universitetsbiblioteker"/>
+      <node id="samlinger" label="samlinger"/>
+      <node id="nationalbibliotek" label="nationalbibliotek"/>
+      <node id="verden" label="verden"/>
+      <node id="landet" label="landet"/>
+      <node id="hele" label="hele"/>
+      <node id="brugere" label="brugere"/>
+      <node id="kulturarv" label="kulturarv"/>
+      <node id="rum" label="rum"/>
+      <node id="fordybelse" label="fordybelse"/>
+      <node id="videnssamfund" label="videnssamfund"/>
+      <node id="demokratisk" label="demokratisk"/>
+      <node id="samfund" label="samfund"/>
+      <node id="videre" label="videre"/>
+      <node id="kalder" label="kalder"/>
+      <node id="stor" label="stor"/>
+      <node id="måde" label="måde"/>
+      <node id="vigtigere" label="vigtigere"/>
+      <node id="data" label="data"/>
+      <node id="finde" label="finde"/>
+      <node id="mission" label="mission"/>
+      <node id="vision" label="vision"/>
+      <node id="fyrtårn" label="fyrtårn"/>
+      <node id="private" label="private"/>
+      <node id="niveau" label="niveau"/>
+      <node id="universitet" label="universitet"/>
+      <node id="folkebiblioteker" label="folkebiblioteker"/>
+      <node id="uden" label="uden"/>
+      <node id="digital" label="digital"/>
+      <node id="både" label="både"/>
+      <node id="adgang" label="adgang"/>
+      <node id="mål" label="mål"/>
+      <node id="tre" label="tre"/>
+      <node id="skabe" label="skabe"/>
+      <node id="leverandør" label="leverandør"/>
+      <node id="national" label="national"/>
+      <node id="lokal" label="lokal"/>
+      <node id="bibliotekspartner" label="bibliotekspartner"/>
+      <node id="fællesskab" label="fællesskab"/>
+      <node id="bøger" label="bøger"/>
+      <node id="vidt" label="vidt"/>
+      <node id="nemt" label="nemt"/>
+      <node id="forbedre" label="forbedre"/>
+      <node id="fokus" label="fokus"/>
+      <node id="derfor" label="derfor"/>
+      <node id="arbejde" label="arbejde"/>
+      <node id="levere" label="levere"/>
+      <node id="gøre" label="gøre"/>
+      <node id="give" label="give"/>
+      <node id="understøtte" label="understøtte"/>
+      <node id="transformation" label="transformation"/>
+      <node id="særlig" label="særlig"/>
+      <node id="uddannelse" label="uddannelse"/>
+      <node id="open" label="open"/>
+      <node id="åben" label="åben"/>
+      <node id="brug" label="brug"/>
+      <node id="forskere" label="forskere"/>
+      <node id="år" label="år"/>
+      <node id="flere" label="flere"/>
+      <node id="bedre" label="bedre"/>
+      <node id="rådighed" label="rådighed"/>
+      <node id="forhold" label="forhold"/>
+      <node id="biblioteksrum" label="biblioteksrum"/>
+      <node id="trivsel" label="trivsel"/>
+      <node id="læring" label="læring"/>
+      <node id="rammer" label="rammer"/>
+      <node id="kultur" label="kultur"/>
+      <node id="tredje" label="tredje"/>
+      <node id="studerende" label="studerende"/>
+      <node id="brugt" label="brugt"/>
+      <node id="tværgående" label="tværgående"/>
+      <node id="fremtiden" label="fremtiden"/>
+      <node id="organisation" label="organisation"/>
+      <node id="datadrevet" label="datadrevet"/>
+      <node id="attraktiv" label="attraktiv"/>
+      <node id="arbejdsplads" label="arbejdsplads"/>
+      <node id="grønnere" label="grønnere"/>
+      <node id="digitalisering" label="digitalisering"/>
+      <node id="område" label="område"/>
+      <node id="klima" label="klima"/>
+      <node id="bæredygtighed" label="bæredygtighed"/>
+      <node id="service" label="service"/>
+      <node id="samarbejdspartner" label="samarbejdspartner"/>
+      <node id="strategisk" label="strategisk"/>
+      <node id="materialeforvaltning" label="materialeforvaltning"/>
+      <node id="institutioner" label="institutioner"/>
+      <node id="pejlemærke" label="pejlemærke"/>
+      <node id="tage" label="tage"/>
+      <node id="forskning" label="forskning"/>
+      <node id="materiale" label="materiale"/>
+      <node id="fysisk" label="fysisk"/>
+      <node id="tilgængelig" label="tilgængelig"/>
+      <node id="stille" label="stille"/>
+      <node id="danmark" label="danmark"/>
+      <node id="billede" label="billede"/>
+      <node id="relevant" label="relevant"/>
+    </nodes>
+    <edges>
+      <edge id="30" source="viser" target="strategi"/>
+      <edge id="29" source="viser" target="service"/>
+      <edge id="17" source="viser" target="verden"/>
+      <edge id="11" source="viser" target="forhold"/>
+      <edge id="8" source="viser" target="vision"/>
+      <edge id="3" source="viser" target="samfund"/>
+      <edge id="1" source="viser" target="vej" weight="3.0"/>
+      <edge id="0" source="viser" target="viden" weight="4.0"/>
+      <edge id="135" source="viden" target="strategi"/>
+      <edge id="134" source="viden" target="stor"/>
+      <edge id="133" source="viden" target="skabe"/>
+      <edge id="132" source="viden" target="service"/>
+      <edge id="131" source="viden" target="samarbejdspartner"/>
+      <edge id="130" source="viden" target="materiale"/>
+      <edge id="128" source="viden" target="fysisk"/>
+      <edge id="127" source="viden" target="digital"/>
+      <edge id="125" source="viden" target="adgang"/>
+      <edge id="123" source="viden" target="give"/>
+      <edge id="120" source="viden" target="tilgængelig"/>
+      <edge id="114" source="viden" target="strategisk"/>
+      <edge id="111" source="viden" target="mål"/>
+      <edge id="92" source="viden" target="fordybelse"/>
+      <edge id="90" source="viden" target="rum"/>
+      <edge id="81" source="viden" target="mission"/>
+      <edge id="77" source="viden" target="fremtiden"/>
+      <edge id="67" source="viden" target="levere"/>
+      <edge id="61" source="viden" target="arbejde"/>
+      <edge id="58" source="viden" target="bøger"/>
+      <edge id="57" source="viden" target="brugere"/>
+      <edge id="54" source="viden" target="leverandør"/>
+      <edge id="53" source="viden" target="fyrtårn" weight="3.0"/>
+      <edge id="48" source="viden" target="vision"/>
+      <edge id="43" source="viden" target="samfund"/>
+      <edge id="39" source="viden" target="kulturarv"/>
+      <edge id="37" source="viden" target="samlinger"/>
+      <edge id="34" source="viden" target="verden" weight="2.0"/>
+      <edge id="32" source="viden" target="vej" weight="4.0"/>
+      <edge id="159" source="vej" target="strategi"/>
+      <edge id="158" source="vej" target="service"/>
+      <edge id="157" source="vej" target="adgang"/>
+      <edge id="155" source="vej" target="give"/>
+      <edge id="153" source="vej" target="tilgængelig"/>
+      <edge id="144" source="vej" target="vision"/>
+      <edge id="139" source="vej" target="samfund"/>
+      <edge id="5528" source="0" target="danmark"/>
+      <edge id="5565" source="brugere" target="0"/>
+      <edge id="5564" source="kalder" target="0"/>
+      <edge id="5563" source="private" target="0"/>
+      <edge id="5562" source="niveau" target="0"/>
+      <edge id="5561" source="give" target="0"/>
+      <edge id="5560" source="understøtte" target="0"/>
+      <edge id="5559" source="uddannelse" target="0"/>
+      <edge id="5553" source="strategi" target="0"/>
+      <edge id="5552" source="står" target="0"/>
+      <edge id="5551" source="universitet" target="0"/>
+      <edge id="5550" source="folkebiblioteker" target="0"/>
+      <edge id="5549" source="både" target="0"/>
+      <edge id="5548" source="forskere" target="0" weight="3.0"/>
+      <edge id="5547" source="studerende" target="0" weight="3.0"/>
+      <edge id="536" source="strategi" target="tage"/>
+      <edge id="535" source="strategi" target="strategisk"/>
+      <edge id="533" source="strategi" target="skabe"/>
+      <edge id="532" source="strategi" target="tre"/>
+      <edge id="530" source="strategi" target="mål"/>
+      <edge id="527" source="strategi" target="danmark"/>
+      <edge id="514" source="strategi" target="vision"/>
+      <edge id="513" source="strategi" target="mission"/>
+      <edge id="510" source="strategi" target="brugere"/>
+      <edge id="509" source="strategi" target="hele"/>
+      <edge id="507" source="strategi" target="landet"/>
+      <edge id="767" source="lang" target="står"/>
+      <edge id="829" source="står" target="videnssamfund"/>
+      <edge id="828" source="står" target="danmark"/>
+      <edge id="812" source="står" target="institutioner"/>
+      <edge id="808" source="står" target="både"/>
+      <edge id="805" source="står" target="hele"/>
+      <edge id="801" source="står" target="grønnere"/>
+      <edge id="797" source="står" target="datadrevet" weight="2.0"/>
+      <edge id="795" source="står" target="gøre"/>
+      <edge id="794" source="står" target="data"/>
+      <edge id="793" source="står" target="organisation"/>
+      <edge id="792" source="står" target="forskere"/>
+      <edge id="791" source="står" target="studerende"/>
+      <edge id="789" source="står" target="mission"/>
+      <edge id="854" source="universitetsbiblioteker" target="universitet"/>
+      <edge id="852" source="universitetsbiblioteker" target="service"/>
+      <edge id="849" source="universitetsbiblioteker" target="nationalbibliotek"/>
+      <edge id="848" source="universitetsbiblioteker" target="samlinger"/>
+      <edge id="910" source="samlinger" target="videnssamfund"/>
+      <edge id="909" source="samlinger" target="stor"/>
+      <edge id="908" source="samlinger" target="service"/>
+      <edge id="907" source="samlinger" target="samarbejdspartner"/>
+      <edge id="906" source="samlinger" target="nemt"/>
+      <edge id="904" source="samlinger" target="stille"/>
+      <edge id="903" source="samlinger" target="tilgængelig"/>
+      <edge id="896" source="samlinger" target="verden"/>
+      <edge id="895" source="samlinger" target="nationalbibliotek"/>
+      <edge id="917" source="nationalbibliotek" target="service"/>
+      <edge id="945" source="verden" target="stor"/>
+      <edge id="944" source="verden" target="samarbejdspartner"/>
+      <edge id="938" source="verden" target="relevant"/>
+      <edge id="926" source="verden" target="fyrtårn"/>
+      <edge id="1000" source="landet" target="tage"/>
+      <edge id="999" source="landet" target="skabe"/>
+      <edge id="998" source="landet" target="samarbejdspartner"/>
+      <edge id="997" source="landet" target="materiale"/>
+      <edge id="996" source="landet" target="levere"/>
+      <edge id="995" source="landet" target="folkebiblioteker"/>
+      <edge id="994" source="landet" target="forskere"/>
+      <edge id="993" source="landet" target="studerende"/>
+      <edge id="990" source="landet" target="lokal"/>
+      <edge id="989" source="landet" target="national"/>
+      <edge id="985" source="landet" target="kultur"/>
+      <edge id="975" source="landet" target="fordybelse"/>
+      <edge id="973" source="landet" target="rum"/>
+      <edge id="971" source="landet" target="brugere"/>
+      <edge id="970" source="landet" target="hele" weight="3.0"/>
+      <edge id="1024" source="hele" target="tage"/>
+      <edge id="1023" source="hele" target="skabe"/>
+      <edge id="1022" source="hele" target="samarbejdspartner"/>
+      <edge id="1021" source="hele" target="levere"/>
+      <edge id="1019" source="hele" target="danmark"/>
+      <edge id="1011" source="hele" target="mission"/>
+      <edge id="1010" source="hele" target="fordybelse"/>
+      <edge id="1008" source="hele" target="rum"/>
+      <edge id="1006" source="hele" target="brugere"/>
+      <edge id="1104" source="brugere" target="åben"/>
+      <edge id="1102" source="brugere" target="tilgængelig"/>
+      <edge id="1101" source="brugere" target="tage"/>
+      <edge id="1100" source="brugere" target="stille"/>
+      <edge id="1099" source="brugere" target="materialeforvaltning"/>
+      <edge id="1098" source="brugere" target="materiale"/>
+      <edge id="1096" source="brugere" target="fysisk"/>
+      <edge id="1095" source="brugere" target="forhold"/>
+      <edge id="1090" source="brugere" target="brugt"/>
+      <edge id="1089" source="brugere" target="folkebiblioteker"/>
+      <edge id="1088" source="brugere" target="private"/>
+      <edge id="1087" source="brugere" target="måde"/>
+      <edge id="1086" source="brugere" target="videre"/>
+      <edge id="1080" source="brugere" target="gøre"/>
+      <edge id="1078" source="brugere" target="skabe"/>
+      <edge id="1072" source="brugere" target="digitalisering"/>
+      <edge id="1067" source="brugere" target="biblioteksrum"/>
+      <edge id="1061" source="brugere" target="derfor"/>
+      <edge id="1060" source="brugere" target="fokus"/>
+      <edge id="1057" source="brugere" target="finde"/>
+      <edge id="1055" source="brugere" target="data" weight="2.0"/>
+      <edge id="1054" source="brugere" target="vigtigere"/>
+      <edge id="1053" source="brugere" target="demokratisk" weight="2.0"/>
+      <edge id="1052" source="brugere" target="rum"/>
+      <edge id="1038" source="brugere" target="fremtiden"/>
+      <edge id="1034" source="brugere" target="forbedre"/>
+      <edge id="1033" source="brugere" target="digital"/>
+      <edge id="1032" source="brugere" target="give"/>
+      <edge id="1029" source="brugere" target="bøger"/>
+      <edge id="1027" source="brugere" target="kulturarv"/>
+      <edge id="1165" source="kulturarv" target="relevant"/>
+      <edge id="1164" source="kulturarv" target="område"/>
+      <edge id="1163" source="kulturarv" target="materiale"/>
+      <edge id="1159" source="kulturarv" target="brug" weight="2.0"/>
+      <edge id="1157" source="kulturarv" target="rådighed"/>
+      <edge id="1153" source="kulturarv" target="stille"/>
+      <edge id="1149" source="kulturarv" target="studerende"/>
+      <edge id="1144" source="kulturarv" target="fysisk"/>
+      <edge id="1143" source="kulturarv" target="digital" weight="2.0"/>
+      <edge id="1142" source="kulturarv" target="arbejde"/>
+      <edge id="1140" source="kulturarv" target="arbejdsplads"/>
+      <edge id="1139" source="kulturarv" target="attraktiv"/>
+      <edge id="1137" source="kulturarv" target="mål"/>
+      <edge id="1111" source="kulturarv" target="bøger"/>
+      <edge id="1109" source="kulturarv" target="leverandør"/>
+      <edge id="1258" source="rum" target="stille"/>
+      <edge id="1257" source="rum" target="rum"/>
+      <edge id="1255" source="rum" target="rammer"/>
+      <edge id="1254" source="rum" target="mission"/>
+      <edge id="1253" source="rum" target="levere"/>
+      <edge id="1250" source="rum" target="billede"/>
+      <edge id="1242" source="rum" target="videre"/>
+      <edge id="1239" source="rum" target="læring" weight="2.0"/>
+      <edge id="1236" source="rum" target="biblioteksrum"/>
+      <edge id="1235" source="rum" target="gøre"/>
+      <edge id="1233" source="rum" target="skabe" weight="4.0"/>
+      <edge id="1229" source="rum" target="bibliotekspartner"/>
+      <edge id="1223" source="rum" target="studerende"/>
+      <edge id="1222" source="rum" target="særlig"/>
+      <edge id="1221" source="rum" target="tredje"/>
+      <edge id="1217" source="rum" target="rådighed"/>
+      <edge id="1216" source="rum" target="fællesskab"/>
+      <edge id="1215" source="rum" target="fordybelse"/>
+      <edge id="1299" source="fordybelse" target="stille"/>
+      <edge id="1298" source="fordybelse" target="skabe"/>
+      <edge id="1297" source="fordybelse" target="rammer"/>
+      <edge id="1296" source="fordybelse" target="levere"/>
+      <edge id="1294" source="fordybelse" target="open"/>
+      <edge id="1285" source="fordybelse" target="rådighed"/>
+      <edge id="1284" source="fordybelse" target="fællesskab"/>
+      <edge id="1321" source="videnssamfund" target="stille"/>
+      <edge id="1320" source="videnssamfund" target="tilgængelig"/>
+      <edge id="1316" source="videnssamfund" target="nemt"/>
+      <edge id="1315" source="videnssamfund" target="strategisk"/>
+      <edge id="1312" source="videnssamfund" target="forskning"/>
+      <edge id="1302" source="videnssamfund" target="uddannelse"/>
+      <edge id="1301" source="videnssamfund" target="demokratisk"/>
+      <edge id="1344" source="demokratisk" target="åben"/>
+      <edge id="1343" source="demokratisk" target="mission"/>
+      <edge id="1342" source="demokratisk" target="forhold"/>
+      <edge id="1335" source="demokratisk" target="derfor"/>
+      <edge id="1331" source="demokratisk" target="digitalisering"/>
+      <edge id="1328" source="demokratisk" target="finde"/>
+      <edge id="1326" source="demokratisk" target="data"/>
+      <edge id="1325" source="demokratisk" target="vigtigere"/>
+      <edge id="1353" source="samfund" target="relevant"/>
+      <edge id="1348" source="samfund" target="finde"/>
+      <edge id="1383" source="videre" target="klima"/>
+      <edge id="1381" source="videre" target="billede"/>
+      <edge id="1376" source="videre" target="brugt"/>
+      <edge id="1374" source="videre" target="måde"/>
+      <edge id="1368" source="videre" target="kalder"/>
+      <edge id="1406" source="kalder" target="klima"/>
+      <edge id="1533" source="stor" target="samarbejdspartner"/>
+      <edge id="1520" source="stor" target="måde"/>
+      <edge id="1543" source="måde" target="brugt"/>
+      <edge id="1572" source="vigtigere" target="åben"/>
+      <edge id="1563" source="vigtigere" target="forhold"/>
+      <edge id="1562" source="vigtigere" target="finde"/>
+      <edge id="1560" source="vigtigere" target="data"/>
+      <edge id="1604" source="data" target="åben"/>
+      <edge id="1603" source="data" target="tilgængelig"/>
+      <edge id="1602" source="data" target="tage"/>
+      <edge id="1601" source="data" target="forskere"/>
+      <edge id="1600" source="data" target="forhold"/>
+      <edge id="1596" source="data" target="datadrevet"/>
+      <edge id="1592" source="data" target="service"/>
+      <edge id="1590" source="data" target="forbedre"/>
+      <edge id="1587" source="data" target="organisation" weight="2.0"/>
+      <edge id="1583" source="data" target="brug"/>
+      <edge id="1581" source="data" target="understøtte"/>
+      <edge id="1579" source="data" target="digital"/>
+      <edge id="1574" source="data" target="finde"/>
+      <edge id="1646" source="finde" target="åben"/>
+      <edge id="1645" source="finde" target="relevant"/>
+      <edge id="1644" source="finde" target="materiale"/>
+      <edge id="1642" source="finde" target="forhold"/>
+      <edge id="1627" source="finde" target="gøre"/>
+      <edge id="1694" source="mission" target="tage"/>
+      <edge id="1693" source="mission" target="national"/>
+      <edge id="1682" source="mission" target="læring"/>
+      <edge id="1681" source="mission" target="derfor"/>
+      <edge id="1680" source="mission" target="bibliotekspartner"/>
+      <edge id="1679" source="mission" target="skabe"/>
+      <edge id="1677" source="mission" target="danmark"/>
+      <edge id="1673" source="mission" target="fyrtårn"/>
+      <edge id="1666" source="mission" target="fokus"/>
+      <edge id="1657" source="mission" target="vision" weight="3.0"/>
+      <edge id="1741" source="vision" target="fokus"/>
+      <edge id="1728" source="vision" target="niveau"/>
+      <edge id="1727" source="vision" target="tage"/>
+      <edge id="1724" source="vision" target="fyrtårn"/>
+      <edge id="1723" source="vision" target="billede"/>
+      <edge id="1712" source="vision" target="år"/>
+      <edge id="1708" source="vision" target="folkebiblioteker"/>
+      <edge id="1705" source="vision" target="gøre"/>
+      <edge id="1703" source="vision" target="studerende"/>
+      <edge id="1798" source="fyrtårn" target="billede"/>
+      <edge id="1790" source="fyrtårn" target="fyrtårn"/>
+      <edge id="1776" source="fyrtårn" target="kultur"/>
+      <edge id="1770" source="fyrtårn" target="forhold"/>
+      <edge id="1882" source="private" target="åben"/>
+      <edge id="1881" source="private" target="service"/>
+      <edge id="1879" source="private" target="folkebiblioteker"/>
+      <edge id="1966" source="niveau" target="national"/>
+      <edge id="1965" source="niveau" target="fysisk"/>
+      <edge id="1961" source="niveau" target="give"/>
+      <edge id="1960" source="niveau" target="understøtte"/>
+      <edge id="1954" source="niveau" target="uddannelse"/>
+      <edge id="2032" source="universitet" target="materiale"/>
+      <edge id="2025" source="universitet" target="bibliotekspartner"/>
+      <edge id="2013" source="universitet" target="open"/>
+      <edge id="2012" source="universitet" target="understøtte"/>
+      <edge id="1999" source="universitet" target="studerende"/>
+      <edge id="1998" source="universitet" target="folkebiblioteker"/>
+      <edge id="2127" source="folkebiblioteker" target="materiale"/>
+      <edge id="2125" source="folkebiblioteker" target="bedre"/>
+      <edge id="2123" source="folkebiblioteker" target="flere"/>
+      <edge id="2119" source="folkebiblioteker" target="brug"/>
+      <edge id="2109" source="folkebiblioteker" target="folkebiblioteker"/>
+      <edge id="2098" source="folkebiblioteker" target="tredje"/>
+      <edge id="2095" source="folkebiblioteker" target="gøre"/>
+      <edge id="2092" source="folkebiblioteker" target="forskere" weight="2.0"/>
+      <edge id="2091" source="folkebiblioteker" target="studerende" weight="3.0"/>
+      <edge id="2170" source="uden" target="materiale"/>
+      <edge id="2163" source="uden" target="organisation"/>
+      <edge id="2161" source="uden" target="både"/>
+      <edge id="2160" source="uden" target="digital"/>
+      <edge id="2217" source="digital" target="tilgængelig"/>
+      <edge id="2215" source="digital" target="materiale"/>
+      <edge id="2214" source="digital" target="fysisk"/>
+      <edge id="2207" source="digital" target="biblioteksrum"/>
+      <edge id="2191" source="digital" target="arbejde"/>
+      <edge id="2189" source="digital" target="digitalisering"/>
+      <edge id="2186" source="digital" target="transformation"/>
+      <edge id="2181" source="digital" target="datadrevet" weight="2.0"/>
+      <edge id="2180" source="digital" target="organisation"/>
+      <edge id="2178" source="digital" target="forbedre"/>
+      <edge id="2177" source="digital" target="give"/>
+      <edge id="2172" source="digital" target="både"/>
+      <edge id="2233" source="både" target="materiale"/>
+      <edge id="2230" source="både" target="fokus"/>
+      <edge id="2228" source="både" target="fysisk"/>
+      <edge id="2224" source="både" target="samarbejdspartner"/>
+      <edge id="2220" source="både" target="lokal"/>
+      <edge id="2219" source="både" target="national"/>
+      <edge id="2247" source="adgang" target="materiale"/>
+      <edge id="2246" source="adgang" target="fysisk"/>
+      <edge id="2245" source="adgang" target="billede"/>
+      <edge id="2242" source="adgang" target="tilgængelig"/>
+      <edge id="2241" source="adgang" target="give"/>
+      <edge id="2291" source="mål" target="pejlemærke"/>
+      <edge id="2285" source="mål" target="attraktiv"/>
+      <edge id="2282" source="mål" target="strategisk"/>
+      <edge id="2280" source="mål" target="arbejdsplads"/>
+      <edge id="2278" source="mål" target="organisation" weight="2.0"/>
+      <edge id="2271" source="mål" target="skabe"/>
+      <edge id="2270" source="mål" target="tre" weight="2.0"/>
+      <edge id="2334" source="tre" target="strategisk"/>
+      <edge id="2333" source="tre" target="pejlemærke"/>
+      <edge id="2328" source="tre" target="tværgående"/>
+      <edge id="2325" source="tre" target="vidt"/>
+      <edge id="2320" source="tre" target="organisation"/>
+      <edge id="2313" source="tre" target="skabe"/>
+      <edge id="2380" source="skabe" target="åben"/>
+      <edge id="2379" source="skabe" target="strategisk"/>
+      <edge id="2376" source="skabe" target="materiale"/>
+      <edge id="2374" source="skabe" target="levere"/>
+      <edge id="2372" source="skabe" target="samarbejdspartner"/>
+      <edge id="2362" source="skabe" target="biblioteksrum"/>
+      <edge id="2361" source="skabe" target="gøre"/>
+      <edge id="2356" source="skabe" target="bibliotekspartner"/>
+      <edge id="2348" source="skabe" target="kultur"/>
+      <edge id="2347" source="skabe" target="læring" weight="2.0"/>
+      <edge id="2346" source="skabe" target="rammer"/>
+      <edge id="2344" source="skabe" target="fællesskab"/>
+      <edge id="2337" source="skabe" target="særlig"/>
+      <edge id="2336" source="skabe" target="transformation"/>
+      <edge id="2405" source="leverandør" target="relevant"/>
+      <edge id="2404" source="leverandør" target="materiale"/>
+      <edge id="2400" source="leverandør" target="arbejde"/>
+      <edge id="2436" source="national" target="understøtte"/>
+      <edge id="2434" source="national" target="service"/>
+      <edge id="2432" source="national" target="fysisk"/>
+      <edge id="2431" source="national" target="institutioner"/>
+      <edge id="2430" source="national" target="danmark"/>
+      <edge id="2423" source="national" target="arbejde"/>
+      <edge id="2422" source="national" target="åben"/>
+      <edge id="2420" source="national" target="open"/>
+      <edge id="2418" source="national" target="materiale"/>
+      <edge id="2417" source="national" target="levere"/>
+      <edge id="2410" source="national" target="samarbejdspartner"/>
+      <edge id="2407" source="national" target="bibliotekspartner"/>
+      <edge id="2406" source="national" target="lokal" weight="3.0"/>
+      <edge id="2459" source="lokal" target="materiale"/>
+      <edge id="2454" source="lokal" target="nemt"/>
+      <edge id="2453" source="lokal" target="vidt"/>
+      <edge id="2448" source="lokal" target="rammer"/>
+      <edge id="2447" source="lokal" target="levere"/>
+      <edge id="2440" source="lokal" target="samarbejdspartner"/>
+      <edge id="2437" source="lokal" target="bibliotekspartner"/>
+      <edge id="2470" source="bibliotekspartner" target="læring"/>
+      <edge id="2491" source="fællesskab" target="åben"/>
+      <edge id="2481" source="fællesskab" target="studerende"/>
+      <edge id="2480" source="fællesskab" target="rammer"/>
+      <edge id="2479" source="fællesskab" target="open"/>
+      <edge id="2500" source="bøger" target="fysisk"/>
+      <edge id="2494" source="bøger" target="forhold"/>
+      <edge id="2502" source="vidt" target="nemt"/>
+      <edge id="2527" source="nemt" target="stille"/>
+      <edge id="2526" source="nemt" target="tilgængelig"/>
+      <edge id="2565" source="forbedre" target="tage"/>
+      <edge id="2564" source="forbedre" target="materialeforvaltning"/>
+      <edge id="2563" source="forbedre" target="materiale" weight="2.0"/>
+      <edge id="2561" source="forbedre" target="service"/>
+      <edge id="2556" source="forbedre" target="give"/>
+      <edge id="2549" source="forbedre" target="derfor"/>
+      <edge id="2548" source="forbedre" target="fokus"/>
+      <edge id="2583" source="fokus" target="materialeforvaltning"/>
+      <edge id="2582" source="fokus" target="materiale"/>
+      <edge id="2577" source="fokus" target="fysisk"/>
+      <edge id="2566" source="fokus" target="derfor"/>
+      <edge id="2591" source="derfor" target="materialeforvaltning"/>
+      <edge id="2590" source="derfor" target="materiale"/>
+      <edge id="2628" source="arbejde" target="strategisk"/>
+      <edge id="2627" source="arbejde" target="pejlemærke"/>
+      <edge id="2623" source="arbejde" target="bedre"/>
+      <edge id="2621" source="arbejde" target="år"/>
+      <edge id="2608" source="arbejde" target="tværgående"/>
+      <edge id="2604" source="arbejde" target="åben"/>
+      <edge id="2684" source="levere" target="materiale"/>
+      <edge id="2828" source="gøre" target="åben"/>
+      <edge id="2822" source="gøre" target="grønnere"/>
+      <edge id="2818" source="gøre" target="tredje"/>
+      <edge id="2816" source="gøre" target="biblioteksrum"/>
+      <edge id="2813" source="gøre" target="studerende"/>
+      <edge id="2838" source="give" target="tilgængelig"/>
+      <edge id="2833" source="give" target="understøtte"/>
+      <edge id="2831" source="give" target="uddannelse"/>
+      <edge id="2915" source="understøtte" target="fysisk"/>
+      <edge id="2910" source="understøtte" target="brugt"/>
+      <edge id="2904" source="understøtte" target="institutioner"/>
+      <edge id="2902" source="understøtte" target="forskere"/>
+      <edge id="2900" source="understøtte" target="materiale"/>
+      <edge id="2891" source="understøtte" target="open"/>
+      <edge id="2887" source="understøtte" target="studerende"/>
+      <edge id="2881" source="understøtte" target="uddannelse"/>
+      <edge id="2877" source="understøtte" target="brug"/>
+      <edge id="2970" source="transformation" target="digitalisering"/>
+      <edge id="2963" source="transformation" target="særlig"/>
+      <edge id="2975" source="særlig" target="studerende"/>
+      <edge id="2974" source="særlig" target="tredje"/>
+      <edge id="3027" source="uddannelse" target="strategisk"/>
+      <edge id="3026" source="uddannelse" target="forskning"/>
+      <edge id="3044" source="open" target="institutioner"/>
+      <edge id="3043" source="open" target="forskning"/>
+      <edge id="3032" source="open" target="forskere"/>
+      <edge id="3057" source="åben" target="tredje"/>
+      <edge id="3055" source="åben" target="læring"/>
+      <edge id="3054" source="åben" target="trivsel"/>
+      <edge id="3052" source="åben" target="biblioteksrum"/>
+      <edge id="3050" source="åben" target="service"/>
+      <edge id="3049" source="åben" target="forhold"/>
+      <edge id="3118" source="brug" target="område"/>
+      <edge id="3117" source="brug" target="forskere"/>
+      <edge id="3116" source="brug" target="biblioteksrum"/>
+      <edge id="3106" source="brug" target="stille"/>
+      <edge id="3101" source="brug" target="studerende"/>
+      <edge id="3100" source="brug" target="rådighed"/>
+      <edge id="3151" source="forskere" target="forskning"/>
+      <edge id="3139" source="forskere" target="institutioner"/>
+      <edge id="3132" source="forskere" target="tredje"/>
+      <edge id="3127" source="forskere" target="studerende" weight="8.0"/>
+      <edge id="3183" source="år" target="bedre"/>
+      <edge id="3210" source="flere" target="billede"/>
+      <edge id="3206" source="flere" target="bedre"/>
+      <edge id="3236" source="rådighed" target="rammer"/>
+      <edge id="3232" source="rådighed" target="stille"/>
+      <edge id="3253" source="forhold" target="kultur"/>
+      <edge id="3278" source="biblioteksrum" target="studerende"/>
+      <edge id="3272" source="biblioteksrum" target="læring"/>
+      <edge id="3271" source="biblioteksrum" target="trivsel"/>
+      <edge id="3287" source="trivsel" target="læring"/>
+      <edge id="3300" source="læring" target="kultur"/>
+      <edge id="3299" source="læring" target="rammer"/>
+      <edge id="3323" source="rammer" target="stille"/>
+      <edge id="3311" source="rammer" target="studerende"/>
+      <edge id="3308" source="rammer" target="kultur"/>
+      <edge id="3338" source="tredje" target="studerende"/>
+      <edge id="3409" source="studerende" target="område"/>
+      <edge id="3389" source="studerende" target="materiale"/>
+      <edge id="3381" source="studerende" target="institutioner"/>
+      <edge id="3433" source="brugt" target="fysisk"/>
+      <edge id="3457" source="tværgående" target="strategisk"/>
+      <edge id="3456" source="tværgående" target="pejlemærke" weight="2.0"/>
+      <edge id="3493" source="organisation" target="pejlemærke"/>
+      <edge id="3477" source="organisation" target="datadrevet"/>
+      <edge id="3506" source="datadrevet" target="bæredygtighed"/>
+      <edge id="3505" source="datadrevet" target="klima"/>
+      <edge id="3517" source="attraktiv" target="arbejdsplads" weight="2.0"/>
+      <edge id="3541" source="grønnere" target="bæredygtighed"/>
+      <edge id="3675" source="område" target="tage"/>
+      <edge id="3674" source="område" target="strategisk"/>
+      <edge id="3666" source="område" target="klima"/>
+      <edge id="4543" source="klima" target="strategisk"/>
+      <edge id="4535" source="klima" target="bæredygtighed" weight="2.0"/>
+      <edge id="4605" source="service" target="tage"/>
+      <edge id="4604" source="service" target="samarbejdspartner"/>
+      <edge id="4767" source="samarbejdspartner" target="strategisk"/>
+      <edge id="4781" source="strategisk" target="pejlemærke"/>
+      <edge id="4780" source="strategisk" target="strategisk"/>
+      <edge id="4777" source="strategisk" target="relevant"/>
+      <edge id="4787" source="materialeforvaltning" target="materiale"/>
+      <edge id="5325" source="materiale" target="relevant"/>
+      <edge id="5324" source="materiale" target="fysisk"/>
+      <edge id="5323" source="materiale" target="billede"/>
+      <edge id="5339" source="fysisk" target="billede"/>
+      <edge id="5338" source="fysisk" target="fysisk"/>
+      <edge id="5490" source="tilgængelig" target="stille"/>
+    </edges>
+  </graph>
+</gexf>

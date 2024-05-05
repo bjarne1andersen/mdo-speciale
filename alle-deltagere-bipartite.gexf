@@ -1,0 +1,389 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-04-29">
+    <creator>NetworkX 2.7.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="viser" label="viser" />
+      <node id="viden" label="viden" />
+      <node id="vej" label="vej" />
+      <node id="0" label="borger" />
+      <node id="strategi" label="strategi" />
+      <node id="lang" label="lang" />
+      <node id="står" label="står" />
+      <node id="universitetsbiblioteker" label="universitetsbiblioteker" />
+      <node id="samlinger" label="samlinger" />
+      <node id="nationalbibliotek" label="nationalbibliotek" />
+      <node id="verden" label="verden" />
+      <node id="landet" label="landet" />
+      <node id="hele" label="hele" />
+      <node id="brugere" label="brugere" />
+      <node id="kulturarv" label="kulturarv" />
+      <node id="rum" label="rum" />
+      <node id="fordybelse" label="fordybelse" />
+      <node id="videnssamfund" label="videnssamfund" />
+      <node id="demokratisk" label="demokratisk" />
+      <node id="samfund" label="samfund" />
+      <node id="videre" label="videre" />
+      <node id="kalder" label="kalder" />
+      <node id="stor" label="stor" />
+      <node id="måde" label="måde" />
+      <node id="vigtigere" label="vigtigere" />
+      <node id="data" label="data" />
+      <node id="finde" label="finde" />
+      <node id="mission" label="mission" />
+      <node id="vision" label="vision" />
+      <node id="fyrtårn" label="fyrtårn" />
+      <node id="private" label="private" />
+      <node id="niveau" label="niveau" />
+      <node id="universitet" label="universitet" />
+      <node id="folkebiblioteker" label="folkebiblioteker" />
+      <node id="uden" label="uden" />
+      <node id="digital" label="digital" />
+      <node id="både" label="både" />
+      <node id="adgang" label="adgang" />
+      <node id="mål" label="mål" />
+      <node id="tre" label="tre" />
+      <node id="skabe" label="skabe" />
+      <node id="leverandør" label="leverandør" />
+      <node id="national" label="national" />
+      <node id="lokal" label="lokal" />
+      <node id="bibliotekspartner" label="bibliotekspartner" />
+      <node id="fællesskab" label="fællesskab" />
+      <node id="bøger" label="bøger" />
+      <node id="vidt" label="vidt" />
+      <node id="nemt" label="nemt" />
+      <node id="forbedre" label="forbedre" />
+      <node id="fokus" label="fokus" />
+      <node id="derfor" label="derfor" />
+      <node id="arbejde" label="arbejde" />
+      <node id="levere" label="levere" />
+      <node id="gøre" label="gøre" />
+      <node id="give" label="give" />
+      <node id="understøtte" label="understøtte" />
+      <node id="transformation" label="transformation" />
+      <node id="særlig" label="særlig" />
+      <node id="uddannelse" label="uddannelse" />
+      <node id="open" label="open" />
+      <node id="åben" label="åben" />
+      <node id="brug" label="brug" />
+      <node id="forskere" label="forskere" />
+      <node id="år" label="år" />
+      <node id="flere" label="flere" />
+      <node id="bedre" label="bedre" />
+      <node id="rådighed" label="rådighed" />
+      <node id="forhold" label="forhold" />
+      <node id="biblioteksrum" label="biblioteksrum" />
+      <node id="trivsel" label="trivsel" />
+      <node id="læring" label="læring" />
+      <node id="rammer" label="rammer" />
+      <node id="kultur" label="kultur" />
+      <node id="tredje" label="tredje" />
+      <node id="studerende" label="studerende" />
+      <node id="brugt" label="brugt" />
+      <node id="tværgående" label="tværgående" />
+      <node id="fremtiden" label="fremtiden" />
+      <node id="organisation" label="organisation" />
+      <node id="datadrevet" label="datadrevet" />
+      <node id="attraktiv" label="attraktiv" />
+      <node id="arbejdsplads" label="arbejdsplads" />
+      <node id="grønnere" label="grønnere" />
+      <node id="digitalisering" label="digitalisering" />
+      <node id="område" label="område" />
+      <node id="klima" label="klima" />
+      <node id="bæredygtighed" label="bæredygtighed" />
+      <node id="service" label="service" />
+      <node id="samarbejdspartner" label="samarbejdspartner" />
+      <node id="strategisk" label="strategisk" />
+      <node id="materialeforvaltning" label="materialeforvaltning" />
+      <node id="institutioner" label="institutioner" />
+      <node id="pejlemærke" label="pejlemærke" />
+      <node id="tage" label="tage" />
+      <node id="forskning" label="forskning" />
+      <node id="materiale" label="materiale" />
+      <node id="fysisk" label="fysisk" />
+      <node id="tilgængelig" label="tilgængelig" />
+      <node id="stille" label="stille" />
+      <node id="danmark" label="danmark" />
+      <node id="billede" label="billede" />
+      <node id="relevant" label="relevant" />
+      <node id="MEDARBEJDER-1" label="MEDARBEJDER-1" />
+      <node id="MEDARBEJDER-2" label="MEDARBEJDER-2" />
+      <node id="MEDARBEJDER-3" label="MEDARBEJDER-3" />
+      <node id="MEDARBEJDER-4" label="MEDARBEJDER-4" />
+      <node id="MEDARBEJDER-5" label="MEDARBEJDER-5" />
+      <node id="MEDARBEJDER-6" label="MEDARBEJDER-6" />
+      <node id="LEDER-1" label="LEDER-1" />
+      <node id="LEDER-2" label="LEDER-2" />
+      <node id="LEDER-3" label="LEDER-3" />
+      <node id="LEDER-4" label="LEDER-4" />
+      <node id="LEDER-5" label="LEDER-5" />
+      <node id="LEDER-6" label="LEDER-6" />
+    </nodes>
+    <edges>
+      <edge source="viden" target="MEDARBEJDER-1" id="0" weight="1" />
+      <edge source="viden" target="MEDARBEJDER-2" id="1" weight="1" />
+      <edge source="viden" target="MEDARBEJDER-3" id="2" weight="1" />
+      <edge source="viden" target="MEDARBEJDER-5" id="3" weight="1" />
+      <edge source="viden" target="MEDARBEJDER-6" id="4" weight="1" />
+      <edge source="viden" target="LEDER-1" id="5" weight="1" />
+      <edge source="viden" target="LEDER-2" id="6" weight="1" />
+      <edge source="viden" target="LEDER-3" id="7" weight="1" />
+      <edge source="viden" target="LEDER-4" id="8" weight="1" />
+      <edge source="viden" target="LEDER-5" id="9" weight="1" />
+      <edge source="viden" target="LEDER-6" id="10" weight="1" />
+      <edge source="vej" target="MEDARBEJDER-1" id="11" weight="1" />
+      <edge source="vej" target="MEDARBEJDER-5" id="12" weight="1" />
+      <edge source="vej" target="LEDER-4" id="13" weight="1" />
+      <edge source="vej" target="LEDER-6" id="14" weight="1" />
+      <edge source="strategi" target="MEDARBEJDER-1" id="15" weight="1" />
+      <edge source="strategi" target="MEDARBEJDER-3" id="16" weight="1" />
+      <edge source="strategi" target="MEDARBEJDER-4" id="17" weight="1" />
+      <edge source="strategi" target="LEDER-5" id="18" weight="1" />
+      <edge source="lang" target="LEDER-4" id="19" weight="1" />
+      <edge source="står" target="MEDARBEJDER-4" id="20" weight="1" />
+      <edge source="står" target="LEDER-2" id="21" weight="1" />
+      <edge source="står" target="LEDER-4" id="22" weight="1" />
+      <edge source="står" target="LEDER-5" id="23" weight="1" />
+      <edge source="står" target="LEDER-6" id="24" weight="1" />
+      <edge source="samlinger" target="MEDARBEJDER-4" id="25" weight="1" />
+      <edge source="nationalbibliotek" target="LEDER-1" id="26" weight="1" />
+      <edge source="verden" target="MEDARBEJDER-1" id="27" weight="1" />
+      <edge source="verden" target="MEDARBEJDER-5" id="28" weight="1" />
+      <edge source="verden" target="LEDER-1" id="29" weight="1" />
+      <edge source="verden" target="LEDER-5" id="30" weight="1" />
+      <edge source="landet" target="MEDARBEJDER-3" id="31" weight="1" />
+      <edge source="hele" target="LEDER-4" id="32" weight="1" />
+      <edge source="hele" target="LEDER-6" id="33" weight="1" />
+      <edge source="brugere" target="MEDARBEJDER-3" id="34" weight="1" />
+      <edge source="brugere" target="MEDARBEJDER-4" id="35" weight="1" />
+      <edge source="brugere" target="LEDER-2" id="36" weight="1" />
+      <edge source="kulturarv" target="MEDARBEJDER-4" id="37" weight="1" />
+      <edge source="kulturarv" target="LEDER-1" id="38" weight="1" />
+      <edge source="kulturarv" target="LEDER-2" id="39" weight="1" />
+      <edge source="kulturarv" target="LEDER-3" id="40" weight="1" />
+      <edge source="kulturarv" target="LEDER-4" id="41" weight="1" />
+      <edge source="kulturarv" target="LEDER-6" id="42" weight="1" />
+      <edge source="rum" target="MEDARBEJDER-1" id="43" weight="1" />
+      <edge source="rum" target="LEDER-1" id="44" weight="1" />
+      <edge source="rum" target="LEDER-3" id="45" weight="1" />
+      <edge source="rum" target="LEDER-6" id="46" weight="1" />
+      <edge source="videnssamfund" target="MEDARBEJDER-4" id="47" weight="1" />
+      <edge source="videnssamfund" target="LEDER-5" id="48" weight="1" />
+      <edge source="demokratisk" target="LEDER-5" id="49" weight="1" />
+      <edge source="samfund" target="MEDARBEJDER-5" id="50" weight="1" />
+      <edge source="samfund" target="LEDER-2" id="51" weight="1" />
+      <edge source="videre" target="MEDARBEJDER-1" id="52" weight="1" />
+      <edge source="videre" target="LEDER-4" id="53" weight="1" />
+      <edge source="kalder" target="MEDARBEJDER-1" id="54" weight="1" />
+      <edge source="kalder" target="MEDARBEJDER-5" id="55" weight="1" />
+      <edge source="stor" target="LEDER-4" id="56" weight="1" />
+      <edge source="måde" target="MEDARBEJDER-5" id="57" weight="1" />
+      <edge source="måde" target="LEDER-4" id="58" weight="1" />
+      <edge source="måde" target="LEDER-5" id="59" weight="1" />
+      <edge source="måde" target="LEDER-6" id="60" weight="1" />
+      <edge source="data" target="LEDER-1" id="61" weight="1" />
+      <edge source="data" target="LEDER-2" id="62" weight="1" />
+      <edge source="data" target="LEDER-4" id="63" weight="1" />
+      <edge source="finde" target="MEDARBEJDER-5" id="64" weight="1" />
+      <edge source="finde" target="LEDER-4" id="65" weight="1" />
+      <edge source="finde" target="LEDER-5" id="66" weight="1" />
+      <edge source="finde" target="LEDER-6" id="67" weight="1" />
+      <edge source="mission" target="MEDARBEJDER-1" id="68" weight="1" />
+      <edge source="mission" target="MEDARBEJDER-2" id="69" weight="1" />
+      <edge source="mission" target="MEDARBEJDER-3" id="70" weight="1" />
+      <edge source="mission" target="MEDARBEJDER-4" id="71" weight="1" />
+      <edge source="mission" target="LEDER-1" id="72" weight="1" />
+      <edge source="mission" target="LEDER-2" id="73" weight="1" />
+      <edge source="mission" target="LEDER-4" id="74" weight="1" />
+      <edge source="mission" target="LEDER-5" id="75" weight="1" />
+      <edge source="mission" target="LEDER-6" id="76" weight="1" />
+      <edge source="vision" target="MEDARBEJDER-1" id="77" weight="1" />
+      <edge source="vision" target="MEDARBEJDER-2" id="78" weight="1" />
+      <edge source="vision" target="MEDARBEJDER-3" id="79" weight="1" />
+      <edge source="vision" target="MEDARBEJDER-4" id="80" weight="1" />
+      <edge source="vision" target="LEDER-1" id="81" weight="1" />
+      <edge source="vision" target="LEDER-2" id="82" weight="1" />
+      <edge source="vision" target="LEDER-3" id="83" weight="1" />
+      <edge source="vision" target="LEDER-4" id="84" weight="1" />
+      <edge source="fyrtårn" target="MEDARBEJDER-1" id="85" weight="1" />
+      <edge source="fyrtårn" target="MEDARBEJDER-2" id="86" weight="1" />
+      <edge source="fyrtårn" target="MEDARBEJDER-3" id="87" weight="1" />
+      <edge source="fyrtårn" target="MEDARBEJDER-4" id="88" weight="1" />
+      <edge source="fyrtårn" target="MEDARBEJDER-5" id="89" weight="1" />
+      <edge source="fyrtårn" target="MEDARBEJDER-6" id="90" weight="1" />
+      <edge source="fyrtårn" target="LEDER-1" id="91" weight="1" />
+      <edge source="fyrtårn" target="LEDER-2" id="92" weight="1" />
+      <edge source="fyrtårn" target="LEDER-3" id="93" weight="1" />
+      <edge source="fyrtårn" target="LEDER-4" id="94" weight="1" />
+      <edge source="fyrtårn" target="LEDER-6" id="95" weight="1" />
+      <edge source="private" target="MEDARBEJDER-4" id="96" weight="1" />
+      <edge source="niveau" target="MEDARBEJDER-6" id="97" weight="1" />
+      <edge source="niveau" target="LEDER-3" id="98" weight="1" />
+      <edge source="niveau" target="LEDER-5" id="99" weight="1" />
+      <edge source="universitet" target="MEDARBEJDER-2" id="100" weight="1" />
+      <edge source="universitet" target="MEDARBEJDER-4" id="101" weight="1" />
+      <edge source="universitet" target="MEDARBEJDER-6" id="102" weight="1" />
+      <edge source="universitet" target="LEDER-1" id="103" weight="1" />
+      <edge source="universitet" target="LEDER-3" id="104" weight="1" />
+      <edge source="universitet" target="LEDER-4" id="105" weight="1" />
+      <edge source="universitet" target="LEDER-5" id="106" weight="1" />
+      <edge source="folkebiblioteker" target="MEDARBEJDER-2" id="107" weight="1" />
+      <edge source="folkebiblioteker" target="MEDARBEJDER-3" id="108" weight="1" />
+      <edge source="folkebiblioteker" target="MEDARBEJDER-4" id="109" weight="1" />
+      <edge source="folkebiblioteker" target="MEDARBEJDER-6" id="110" weight="1" />
+      <edge source="folkebiblioteker" target="LEDER-2" id="111" weight="1" />
+      <edge source="folkebiblioteker" target="LEDER-3" id="112" weight="1" />
+      <edge source="folkebiblioteker" target="LEDER-4" id="113" weight="1" />
+      <edge source="folkebiblioteker" target="LEDER-5" id="114" weight="1" />
+      <edge source="folkebiblioteker" target="LEDER-6" id="115" weight="1" />
+      <edge source="uden" target="LEDER-3" id="116" weight="1" />
+      <edge source="digital" target="MEDARBEJDER-3" id="117" weight="1" />
+      <edge source="digital" target="LEDER-1" id="118" weight="1" />
+      <edge source="både" target="LEDER-2" id="119" weight="1" />
+      <edge source="både" target="LEDER-3" id="120" weight="1" />
+      <edge source="både" target="LEDER-4" id="121" weight="1" />
+      <edge source="både" target="LEDER-5" id="122" weight="1" />
+      <edge source="adgang" target="MEDARBEJDER-5" id="123" weight="1" />
+      <edge source="mål" target="MEDARBEJDER-1" id="124" weight="1" />
+      <edge source="mål" target="MEDARBEJDER-3" id="125" weight="1" />
+      <edge source="mål" target="LEDER-4" id="126" weight="1" />
+      <edge source="mål" target="LEDER-5" id="127" weight="1" />
+      <edge source="mål" target="LEDER-6" id="128" weight="1" />
+      <edge source="tre" target="MEDARBEJDER-1" id="129" weight="1" />
+      <edge source="tre" target="LEDER-4" id="130" weight="1" />
+      <edge source="tre" target="LEDER-5" id="131" weight="1" />
+      <edge source="skabe" target="MEDARBEJDER-1" id="132" weight="1" />
+      <edge source="skabe" target="LEDER-1" id="133" weight="1" />
+      <edge source="leverandør" target="LEDER-3" id="134" weight="1" />
+      <edge source="national" target="MEDARBEJDER-1" id="135" weight="1" />
+      <edge source="national" target="LEDER-1" id="136" weight="1" />
+      <edge source="national" target="LEDER-3" id="137" weight="1" />
+      <edge source="national" target="LEDER-6" id="138" weight="1" />
+      <edge source="lokal" target="MEDARBEJDER-1" id="139" weight="1" />
+      <edge source="lokal" target="LEDER-1" id="140" weight="1" />
+      <edge source="lokal" target="LEDER-3" id="141" weight="1" />
+      <edge source="lokal" target="LEDER-4" id="142" weight="1" />
+      <edge source="bibliotekspartner" target="MEDARBEJDER-1" id="143" weight="1" />
+      <edge source="bibliotekspartner" target="LEDER-1" id="144" weight="1" />
+      <edge source="fællesskab" target="LEDER-4" id="145" weight="1" />
+      <edge source="bøger" target="MEDARBEJDER-1" id="146" weight="1" />
+      <edge source="vidt" target="LEDER-5" id="147" weight="1" />
+      <edge source="nemt" target="MEDARBEJDER-4" id="148" weight="1" />
+      <edge source="forbedre" target="LEDER-2" id="149" weight="1" />
+      <edge source="fokus" target="LEDER-5" id="150" weight="1" />
+      <edge source="derfor" target="LEDER-5" id="151" weight="1" />
+      <edge source="arbejde" target="LEDER-3" id="152" weight="1" />
+      <edge source="arbejde" target="LEDER-5" id="153" weight="1" />
+      <edge source="arbejde" target="LEDER-6" id="154" weight="1" />
+      <edge source="levere" target="LEDER-4" id="155" weight="1" />
+      <edge source="gøre" target="LEDER-2" id="156" weight="1" />
+      <edge source="gøre" target="LEDER-5" id="157" weight="1" />
+      <edge source="gøre" target="LEDER-6" id="158" weight="1" />
+      <edge source="give" target="MEDARBEJDER-5" id="159" weight="1" />
+      <edge source="give" target="LEDER-5" id="160" weight="1" />
+      <edge source="understøtte" target="LEDER-4" id="161" weight="1" />
+      <edge source="understøtte" target="LEDER-5" id="162" weight="1" />
+      <edge source="transformation" target="MEDARBEJDER-3" id="163" weight="1" />
+      <edge source="særlig" target="LEDER-3" id="164" weight="1" />
+      <edge source="uddannelse" target="LEDER-2" id="165" weight="1" />
+      <edge source="uddannelse" target="LEDER-5" id="166" weight="1" />
+      <edge source="open" target="LEDER-4" id="167" weight="1" />
+      <edge source="åben" target="LEDER-2" id="168" weight="1" />
+      <edge source="åben" target="LEDER-6" id="169" weight="1" />
+      <edge source="brug" target="MEDARBEJDER-4" id="170" weight="1" />
+      <edge source="år" target="MEDARBEJDER-1" id="171" weight="1" />
+      <edge source="år" target="LEDER-5" id="172" weight="1" />
+      <edge source="år" target="LEDER-6" id="173" weight="1" />
+      <edge source="flere" target="MEDARBEJDER-1" id="174" weight="1" />
+      <edge source="bedre" target="MEDARBEJDER-5" id="175" weight="1" />
+      <edge source="bedre" target="LEDER-5" id="176" weight="1" />
+      <edge source="bedre" target="LEDER-6" id="177" weight="1" />
+      <edge source="rådighed" target="MEDARBEJDER-4" id="178" weight="1" />
+      <edge source="rådighed" target="LEDER-2" id="179" weight="1" />
+      <edge source="forhold" target="MEDARBEJDER-1" id="180" weight="1" />
+      <edge source="forhold" target="LEDER-2" id="181" weight="1" />
+      <edge source="forhold" target="LEDER-6" id="182" weight="1" />
+      <edge source="trivsel" target="MEDARBEJDER-4" id="183" weight="1" />
+      <edge source="trivsel" target="LEDER-1" id="184" weight="1" />
+      <edge source="trivsel" target="LEDER-6" id="185" weight="1" />
+      <edge source="læring" target="MEDARBEJDER-1" id="186" weight="1" />
+      <edge source="kultur" target="LEDER-3" id="187" weight="1" />
+      <edge source="tredje" target="MEDARBEJDER-1" id="188" weight="1" />
+      <edge source="tredje" target="LEDER-2" id="189" weight="1" />
+      <edge source="tredje" target="LEDER-3" id="190" weight="1" />
+      <edge source="tredje" target="LEDER-5" id="191" weight="1" />
+      <edge source="studerende" target="MEDARBEJDER-1" id="192" weight="1" />
+      <edge source="studerende" target="MEDARBEJDER-3" id="193" weight="1" />
+      <edge source="studerende" target="MEDARBEJDER-4" id="194" weight="1" />
+      <edge source="studerende" target="MEDARBEJDER-5" id="195" weight="1" />
+      <edge source="studerende" target="LEDER-1" id="196" weight="1" />
+      <edge source="studerende" target="LEDER-2" id="197" weight="1" />
+      <edge source="studerende" target="LEDER-3" id="198" weight="1" />
+      <edge source="studerende" target="LEDER-4" id="199" weight="1" />
+      <edge source="studerende" target="LEDER-5" id="200" weight="1" />
+      <edge source="studerende" target="LEDER-6" id="201" weight="1" />
+      <edge source="brugt" target="MEDARBEJDER-3" id="202" weight="1" />
+      <edge source="tværgående" target="MEDARBEJDER-1" id="203" weight="1" />
+      <edge source="tværgående" target="MEDARBEJDER-2" id="204" weight="1" />
+      <edge source="organisation" target="MEDARBEJDER-1" id="205" weight="1" />
+      <edge source="organisation" target="LEDER-1" id="206" weight="1" />
+      <edge source="organisation" target="LEDER-3" id="207" weight="1" />
+      <edge source="organisation" target="LEDER-4" id="208" weight="1" />
+      <edge source="datadrevet" target="LEDER-2" id="209" weight="1" />
+      <edge source="datadrevet" target="LEDER-4" id="210" weight="1" />
+      <edge source="attraktiv" target="LEDER-2" id="211" weight="1" />
+      <edge source="attraktiv" target="LEDER-3" id="212" weight="1" />
+      <edge source="attraktiv" target="LEDER-4" id="213" weight="1" />
+      <edge source="arbejdsplads" target="LEDER-2" id="214" weight="1" />
+      <edge source="arbejdsplads" target="LEDER-3" id="215" weight="1" />
+      <edge source="arbejdsplads" target="LEDER-4" id="216" weight="1" />
+      <edge source="grønnere" target="LEDER-1" id="217" weight="1" />
+      <edge source="grønnere" target="LEDER-2" id="218" weight="1" />
+      <edge source="grønnere" target="LEDER-3" id="219" weight="1" />
+      <edge source="område" target="MEDARBEJDER-4" id="220" weight="1" />
+      <edge source="klima" target="LEDER-2" id="221" weight="1" />
+      <edge source="klima" target="LEDER-3" id="222" weight="1" />
+      <edge source="bæredygtighed" target="MEDARBEJDER-4" id="223" weight="1" />
+      <edge source="bæredygtighed" target="MEDARBEJDER-6" id="224" weight="1" />
+      <edge source="bæredygtighed" target="LEDER-1" id="225" weight="1" />
+      <edge source="bæredygtighed" target="LEDER-2" id="226" weight="1" />
+      <edge source="service" target="LEDER-2" id="227" weight="1" />
+      <edge source="service" target="LEDER-4" id="228" weight="1" />
+      <edge source="samarbejdspartner" target="LEDER-3" id="229" weight="1" />
+      <edge source="strategisk" target="MEDARBEJDER-3" id="230" weight="1" />
+      <edge source="strategisk" target="MEDARBEJDER-5" id="231" weight="1" />
+      <edge source="strategisk" target="LEDER-3" id="232" weight="1" />
+      <edge source="strategisk" target="LEDER-5" id="233" weight="1" />
+      <edge source="strategisk" target="LEDER-6" id="234" weight="1" />
+      <edge source="materialeforvaltning" target="LEDER-3" id="235" weight="1" />
+      <edge source="institutioner" target="LEDER-4" id="236" weight="1" />
+      <edge source="pejlemærke" target="MEDARBEJDER-1" id="237" weight="1" />
+      <edge source="pejlemærke" target="MEDARBEJDER-2" id="238" weight="1" />
+      <edge source="pejlemærke" target="LEDER-4" id="239" weight="1" />
+      <edge source="pejlemærke" target="LEDER-6" id="240" weight="1" />
+      <edge source="tage" target="MEDARBEJDER-3" id="241" weight="1" />
+      <edge source="tage" target="MEDARBEJDER-4" id="242" weight="1" />
+      <edge source="tage" target="LEDER-2" id="243" weight="1" />
+      <edge source="tage" target="LEDER-5" id="244" weight="1" />
+      <edge source="forskning" target="LEDER-5" id="245" weight="1" />
+      <edge source="materiale" target="LEDER-5" id="246" weight="1" />
+      <edge source="fysisk" target="LEDER-1" id="247" weight="1" />
+      <edge source="fysisk" target="LEDER-5" id="248" weight="1" />
+      <edge source="fysisk" target="LEDER-6" id="249" weight="1" />
+      <edge source="tilgængelig" target="MEDARBEJDER-4" id="250" weight="1" />
+      <edge source="tilgængelig" target="MEDARBEJDER-5" id="251" weight="1" />
+      <edge source="stille" target="MEDARBEJDER-4" id="252" weight="1" />
+      <edge source="stille" target="LEDER-2" id="253" weight="1" />
+      <edge source="danmark" target="MEDARBEJDER-4" id="254" weight="1" />
+      <edge source="danmark" target="LEDER-1" id="255" weight="1" />
+      <edge source="danmark" target="LEDER-4" id="256" weight="1" />
+      <edge source="danmark" target="LEDER-6" id="257" weight="1" />
+      <edge source="billede" target="MEDARBEJDER-1" id="258" weight="1" />
+      <edge source="billede" target="MEDARBEJDER-3" id="259" weight="1" />
+      <edge source="billede" target="MEDARBEJDER-5" id="260" weight="1" />
+      <edge source="relevant" target="MEDARBEJDER-5" id="261" weight="1" />
+    </edges>
+  </graph>
+</gexf>
